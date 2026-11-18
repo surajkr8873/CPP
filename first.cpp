@@ -2,6 +2,9 @@
 using namespace std;
 
 int main(){
-    cout << "suraj kumar";
+    cout << "monu kumar\n";
+    cout << "suraj kumar\n" ;
+    cout << "shubham kumar";
     return 0;
 }
+
